@@ -1,7 +1,8 @@
 # OOP Coffee Machine  Programm 
 *******************************************************
 Done with  Python using the object oriented programming paradigm 
-*******************************************************Coffee Machine that able to prepere different type of drinks which 
+*******************************************************
+Coffee Machine that able to prepere different type of drinks which 
 requires different resources. Machine accepts coins and return coins 
 Maintanance mode available, Report (profit resoueces available)
 
